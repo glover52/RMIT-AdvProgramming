@@ -6,7 +6,6 @@
 > Program Code      : BP094
 
 ## Comments:
-```
 - The assignment was fairly simple and only took some time to get rolling due to me not knowing where to start.
 
 - The skeleton code's comments got really annoying in VIM and so I resorted to deleting the large chunks of comments
@@ -23,4 +22,3 @@ time on this assignment, I would have liked to reduce it in some way rather than
 I see it as a very big waste of resources, knowing that there was another, more simpler way I could have done the win checks.
 
 - Overall, I liked the assignment and it was a very basic but moderately difficult challenge to overcome. I can't wait to see what's next!
-```
